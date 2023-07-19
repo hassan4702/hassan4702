@@ -1,4 +1,4 @@
-  # Hello There, this is Hassan shakil
+  # Hello There, I am Hassan shakil
   <image src="https://www.codewars.com/users/Hassan%20shakil%20/badges/large"></image>
   ##    Current Languages and Tools
   <div id="images">
