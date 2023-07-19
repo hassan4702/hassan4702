@@ -8,6 +8,8 @@
       <image style="width:70px ; height:70px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png"></image>
     <a href="https://isocpp.org/">
   <image style="width:70px ; height:70px" src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector.svg"></image>
+      <a href="https://dart.dev/">
+  <image style="width:70px ; height:70px" src="https://dwglogo.com/wp-content/uploads/2018/03/Dart_logo.png"></image>
   </div>
   <div>
       <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan4702&theme=github_dark&layout=compact&hide_border=truestyle=centerme"></image>
