@@ -66,21 +66,26 @@
   <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img align="center" margin="10" src="https://github-profile-trophy.vercel.app/?username=hassan4702&column=5&margin-w=15&margin-h=15&theme=onedark"/>
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=hassan4702&count_private=true&include_all_commits=true&show_icons=true&theme=radical" />
   </a>
   </p>
 </div>
 <br />
 <div align="center">
-  <p align="center">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan4702&layout=compact&theme=radical" />
-  </p>
-
-  <p align="center">
+<!--   <p align="center">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=hassan4702&count_private=true&include_all_commits=true&show_icons=true&theme=radical" />
     <img width="54%" src="https://streak-stats.demolab.com?user=hassan4702&theme=radical&hide_border=true&margin-w=15&margin-h=15" />
   </p>
- 
-    
+  <p align="center">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan4702&layout=compact&theme=radical" />
+  </p> -->
+
+  <div>  
+  <a title="GitHub Readme Stats"><img src="https://fabianocouto-readme-stats.vercel.app/api?username=hassan4702&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark_dimmed&line_height=23.5&v1&text_color=adbac7&title_color=7cfe9e&icon_color=7cfe9e" width=49.6% />
+  </a>
+  <a title="Github Readme Streak Stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hassan4702&background=24292f&border=373e47&stroke=373e47&currStreakNum=adbac7&sideNums=adbac7&sideLabels=adbac7&dates=adbac7&ring=7cfe9e&currStreakLabel=7cfe9e&fire=213658k" alt="hassan4702" width=49.79% />
+  </a>
+</div>
+
   <p align="center">
 <h1> Get in Touch! </h1>
 <a href="mailto:hassanshakil35066@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
