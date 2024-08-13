@@ -66,6 +66,7 @@
   <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img align="center" margin="10" src="https://github-profile-trophy.vercel.app/?username=hassan4702&column=5&margin-w=15&margin-h=15&theme=onedark"/>
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=hassan4702&count_private=true&include_all_commits=true&show_icons=true&theme=radical" />
   </a>
   </p>
 </div>
@@ -73,7 +74,6 @@
 <div align="center">
   <p align="center">
     <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan4702&layout=compact&theme=radical" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=hassan4702&count_private=true&include_all_commits=true&show_icons=true&theme=radical" />
   </p>
 
   <p align="center">
