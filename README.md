@@ -86,6 +86,7 @@
   </a>
 </div>
 
+
   <p align="center">
 <h1> Get in Touch! </h1>
 <a href="mailto:hassanshakil35066@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
