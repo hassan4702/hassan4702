@@ -1,7 +1,7 @@
 <!--  <a href="https://github.com/hassan4702">
   <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif"></a>-->
 
-<h1 align="center">Hi 👋🏻, I'm Hassan Shakil</h1>
+<h1 align="center">Hi 👋🏻, I'm Hassan Shakil </h1>
 <h3 align="center">A passionate Software Engineer and web developer</h3>
 <!-- <a href="https://github.com/hassan4702">
   <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
@@ -38,7 +38,7 @@
   <img alt="Next JS" src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
   <img alt="Ant-Design" src="https://img.shields.io/badge/-Ant%20Design-%230170FE?&style=for-the-badge&logo=ant-design&logoColor=white"/>
   <img alt="Selenium" src="https://img.shields.io/badge/selenium%20-%2300b400.svg?&style=for-the-badge&logo=selenium&logoColor=white"/>
-  
+
 </div>
 <h3 align="center">Hosting/ SaaS</h3>
 <div align="center">
@@ -50,6 +50,11 @@
   <img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
   <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 </div>
+
+
+
+### Hosting/ SaaS
+
 
 <h3 align="center">Database</h3>
 <div align="center">
@@ -78,15 +83,14 @@
     <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan4702&layout=compact&theme=radical" />
   </p> -->
 
-  <div>  
+<div>  
   <a title="GitHub Readme Stats"><img src="https://fabianocouto-readme-stats.vercel.app/api?username=hassan4702&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark_dimmed&line_height=23.5&v1&text_color=adbac7&title_color=7cfe9e&icon_color=7cfe9e" width=49.6% />
   </a>
   <a title="Github Readme Streak Stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hassan4702&background=24292f&border=373e47&stroke=373e47&currStreakNum=adbac7&sideNums=adbac7&sideLabels=adbac7&dates=adbac7&ring=7cfe9e&currStreakLabel=7cfe9e&fire=213658k" alt="hassan4702" width=49.79% />
   </a>
 </div>
 
-
-  <p align="center">
+<p align="center">
 <h1> Get in Touch! </h1>
 <a href="mailto:hassanshakil35066@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
  <a href="https://www.linkedin.com/in/hassan-shakil/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -97,7 +101,3 @@
 <a href="https://www.fiverr.com/hassan4702" target="_blank"><img alt="Fiverr" src="https://img.shields.io/badge/fiverr%20-%2300b22d.svg?&style=for-the-badge&logo=fiverr&logoColor=white"/></a>
 <a href="https://www.upwork.com/freelancers/~0192ceb61a3d62433f" target="_blank"><img alt="Upwork" src="https://img.shields.io/badge/upwork%20-%2373bb44.svg?&style=for-the-badge&logo=upwork&logoColor=white"/></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassan4702&label=Profile%20views&color=0e75b6&style=flat" alt="Hassan shakil" /> </p>
-
-
-
-
